@@ -16,7 +16,7 @@ function HomepageHeader() {
           <Link className="button button--primary button--lg" to="/docs">
             📖 Zum Handbuch
           </Link>
-          <Link className="button button--secondary button--lg" to="/docs/04-ebay/ebay-einrichten" style={{marginLeft: '1rem'}}>
+          <Link className="button button--secondary button--lg" to="/docs/ebay/ebay-einrichten" style={{marginLeft: '1rem'}}>
             🛒 eBay einrichten
           </Link>
         </div>
@@ -30,19 +30,19 @@ const features = [
     emoji: '📦',
     title: 'Sammlung verwalten',
     description: 'Erfasse deine Briefmarken, Blocks, FDCs und mehr. Mit Bildern, Michel-Nummern und Zustandsbeschreibungen.',
-    link: '/docs/02-artikel/artikel-anlegen',
+    link: '/docs/artikel/artikel-anlegen',
   },
   {
     emoji: '🖨️',
     title: 'Scanner-Integration',
     description: 'Digitalisiere deine Briefmarken direkt mit WIA- oder eSCL-Scannern. Unterstützt Canon, HP und viele mehr.',
-    link: '/docs/03-scanner/scanner-verbinden',
+    link: '/docs/scanner/scanner-verbinden',
   },
   {
     emoji: '🛒',
     title: 'eBay-Integration',
     description: 'Stelle Artikel direkt bei eBay ein. Automatische Kategorie-Zuweisung nach Land und Jahr.',
-    link: '/docs/04-ebay/ebay-einrichten',
+    link: '/docs/ebay/ebay-einrichten',
   },
   {
     emoji: '📦',
@@ -54,7 +54,7 @@ const features = [
     emoji: '🔑',
     title: 'Lizenz aktivieren',
     description: 'Von Free bis HÄNDLER — finde das richtige Lizenzmodell für deine Sammlung.',
-    link: '/docs/05-lizenz/lizenz-aktivieren',
+    link: '/docs/lizenz/lizenz-aktivieren',
   },
   {
     emoji: '🌍',

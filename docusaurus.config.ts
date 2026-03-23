@@ -85,9 +85,9 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Handbuch',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
@@ -102,8 +102,8 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Handbuch',
+              to: '/docs',
             },
           ],
         },
@@ -128,8 +128,8 @@ const config: Config = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
+              label: 'GitHub',
+              href: 'https://github.com/4blue-Moonghost/philatelie-manager',
             },
             {
               label: 'GitHub',
