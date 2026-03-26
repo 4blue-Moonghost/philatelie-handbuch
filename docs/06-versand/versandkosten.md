@@ -1,6 +1,8 @@
 ---
 sidebar_position: 1
 ---
+![Versandkosten](/img/screenshots/shipping.png)
+
 
 # Versandkosten berechnen
 

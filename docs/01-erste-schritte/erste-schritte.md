@@ -7,6 +7,8 @@ sidebar_position: 2
 Nach der Installation startet der **Einrichtungsassistent** automatisch.
 
 ## Einrichtungsassistent
+![Übersicht Dashboard](/img/screenshots/dashboard.png)
+
 
 Beim ersten Start kannst du folgende Optionen festlegen:
 

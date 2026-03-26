@@ -20,3 +20,6 @@ Falls Windows SmartScreen eine Warnung anzeigt, klicke auf **"Weitere Informatio
 1. Lade die `.dmg` Datei herunter
 2. Öffne die DMG-Datei und ziehe die App in den Programme-Ordner
 3. Beim ersten Start: Rechtsklick → Öffnen (einmalig nötig)
+
+![Einstellungen](/img/screenshots/settings.png)
+

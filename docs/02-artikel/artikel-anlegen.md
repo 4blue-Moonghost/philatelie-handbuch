@@ -8,6 +8,11 @@ sidebar_position: 1
 
 Klicke auf **+ Neuer Artikel** in der Sammlung-Übersicht.
 
+![Katalog Übersicht](/img/screenshots/catalog.png)
+
+![Neuer Artikel](/img/screenshots/article-new.png)
+
+
 ## Pflichtfelder
 
 | Feld | Beschreibung |

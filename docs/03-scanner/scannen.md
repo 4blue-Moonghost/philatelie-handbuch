@@ -5,6 +5,8 @@ sidebar_position: 2
 # Briefmarken scannen
 
 ## Einzelscan
+![Scanner](/img/screenshots/scanner.png)
+
 
 1. Lege die Briefmarke auf den Scanner
 2. Wähle den Scanner aus dem Dropdown

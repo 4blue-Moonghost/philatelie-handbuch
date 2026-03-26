@@ -11,6 +11,8 @@ sidebar_position: 2
 - **Jahr** angegeben (für korrekte eBay-Kategorie empfohlen)
 
 ## Listing erstellen
+![eBay Artikel einstellen](/img/screenshots/ebay.png)
+
 
 1. Öffne den Artikel
 2. Klicke auf **Bei eBay einstellen**
